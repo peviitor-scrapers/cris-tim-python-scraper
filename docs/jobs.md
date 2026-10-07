@@ -10,11 +10,11 @@
 | Location | JUD. PRAHOVA, SAT FILIPEŞTII DE PĂDURE COM. FILIPEŞTII DE PĂDURE, STR. GĂRII, NR.661 |
 | Website | [https://cristim.ro](https://cristim.ro) |
 | Careers | [https://cariere.cristim.ro/](https://cariere.cristim.ro/) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-10-06T12:16:50.497271+00:00_
+_Generated: 2026-10-07T12:08:03.599492+00:00_
 
 ### Specialist Achiziții – București | Oregon Park
 
