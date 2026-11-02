@@ -10,11 +10,25 @@
 | Location | JUD. PRAHOVA, SAT FILIPEŞTII DE PĂDURE COM. FILIPEŞTII DE PĂDURE, STR. GĂRII, NR.661 |
 | Website | [https://cristim.ro](https://cristim.ro) |
 | Careers | [https://cariere.cristim.ro/](https://cariere.cristim.ro/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (12)
+## Current Job Listings (16)
 
-_Generated: 2026-11-01T12:06:48.921159+00:00_
+_Generated: 2026-11-02T13:56:05.221688+00:00_
+
+### Junior Key Account Manager – Export
+
+- **URL:** [https://cariere.cristim.ro/cariere/bucuresti/junior-key-account-manager-export/](https://cariere.cristim.ro/cariere/bucuresti/junior-key-account-manager-export/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
+
+### Lucrător Comercial București – Vânzător/ Vânzătoare (Calea Moșilor, Colentina, Bucureștii Noi, Reșița)
+
+- **URL:** [https://cariere.cristim.ro/cariere/bucuresti/lucrator-comercial-bucuresti-vanzator-vanzatoare-calea-mosilor-colentina-bucurestii-noi-resita/](https://cariere.cristim.ro/cariere/bucuresti/lucrator-comercial-bucuresti-vanzator-vanzatoare-calea-mosilor-colentina-bucurestii-noi-resita/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
 
 ### Specialist Achiziții – București | Oregon Park
 
@@ -47,6 +61,20 @@ _Generated: 2026-11-01T12:06:48.921159+00:00_
 ### Operator Depozit
 
 - **URL:** [https://cariere.cristim.ro/cariere/mogosoaia/operator-depozit/](https://cariere.cristim.ro/cariere/mogosoaia/operator-depozit/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
+
+### Inginer Instalații Electrice
+
+- **URL:** [https://cariere.cristim.ro/cariere/filipestii-de-padure/inginer-instalatii-electrice/](https://cariere.cristim.ro/cariere/filipestii-de-padure/inginer-instalatii-electrice/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
+
+### Inginer Construcții
+
+- **URL:** [https://cariere.cristim.ro/cariere/filipestii-de-padure/inginer-constructii/](https://cariere.cristim.ro/cariere/filipestii-de-padure/inginer-constructii/)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
