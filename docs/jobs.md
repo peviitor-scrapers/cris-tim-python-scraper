@@ -10,11 +10,11 @@
 | Location | JUD. PRAHOVA, SAT FILIPEŞTII DE PĂDURE COM. FILIPEŞTII DE PĂDURE, STR. GĂRII, NR.661 |
 | Website | [https://cristim.ro](https://cristim.ro) |
 | Careers | [https://cariere.cristim.ro/](https://cariere.cristim.ro/) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
 ## Current Job Listings (16)
 
-_Generated: 2026-11-09T14:27:45.598011+00:00_
+_Generated: 2026-11-10T13:50:23.898497+00:00_
 
 ### Junior Key Account Manager – Export
 
