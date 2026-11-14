@@ -14,7 +14,7 @@
 
 ## Current Job Listings (3)
 
-_Generated: 2026-11-14T12:34:55.942248+00:00_
+_Generated: 2026-11-14T15:04:17.508424+00:00_
 
 ### Bucureşti
 
